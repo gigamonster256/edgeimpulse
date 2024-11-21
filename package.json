@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "edge-impulse-cli": "^1.30.0"
+  }
+}
