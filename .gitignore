@@ -132,6 +132,8 @@ dist
 # devenv stuff
 .devenv/
 .direnv/
+.pre-commit-config.yaml
+
 
 # Arduino
 app/bin/
